@@ -1,0 +1,53 @@
+﻿ProyectoFinal.obj : error LNK2001: símbolo externo glfwSwapBuffers sin resolver
+ProyectoFinal.obj : error LNK2001: símbolo externo __imp___glewEnableVertexAttribArray sin resolver
+ProyectoFinal.obj : error LNK2001: símbolo externo __imp___glewBindVertexArray sin resolver
+ProyectoFinal.obj : error LNK2001: símbolo externo __imp___glewUseProgram sin resolver
+ProyectoFinal.obj : error LNK2001: símbolo externo __imp___glewVertexAttribPointer sin resolver
+ProyectoFinal.obj : error LNK2001: símbolo externo __imp___glewGetShaderiv sin resolver
+ProyectoFinal.obj : error LNK2001: símbolo externo __imp___glewCompileShader sin resolver
+ProyectoFinal.obj : error LNK2001: símbolo externo aiGetMaterialTextureCount sin resolver
+ProyectoFinal.obj : error LNK2001: símbolo externo __imp___glewCreateShader sin resolver
+ProyectoFinal.obj : error LNK2001: símbolo externo __imp___glewBindBuffer sin resolver
+ProyectoFinal.obj : error LNK2001: símbolo externo glfwGetTime sin resolver
+ProyectoFinal.obj : error LNK2001: símbolo externo __imp___glewCreateProgram sin resolver
+ProyectoFinal.obj : error LNK2001: símbolo externo __imp___glewUniform1i sin resolver
+ProyectoFinal.obj : error LNK2001: símbolo externo stbi_load sin resolver
+ProyectoFinal.obj : error LNK2001: símbolo externo __imp___glewGetShaderInfoLog sin resolver
+ProyectoFinal.obj : error LNK2001: símbolo externo glfwGetFramebufferSize sin resolver
+ProyectoFinal.obj : error LNK2001: símbolo externo __imp___glewGetProgramiv sin resolver
+ProyectoFinal.obj : error LNK2001: símbolo externo glfwTerminate sin resolver
+ProyectoFinal.obj : error LNK2001: símbolo externo SOIL_free_image_data sin resolver
+ProyectoFinal.obj : error LNK2001: símbolo externo glfwPollEvents sin resolver
+ProyectoFinal.obj : error LNK2001: símbolo externo glfwInit sin resolver
+ProyectoFinal.obj : error LNK2001: símbolo externo SOIL_load_image sin resolver
+ProyectoFinal.obj : error LNK2001: símbolo externo glfwSetKeyCallback sin resolver
+ProyectoFinal.obj : error LNK2001: símbolo externo glfwSetWindowShouldClose sin resolver
+ProyectoFinal.obj : error LNK2001: símbolo externo __imp___glewUniform1f sin resolver
+ProyectoFinal.obj : error LNK2001: símbolo externo glfwCreateWindow sin resolver
+ProyectoFinal.obj : error LNK2001: símbolo externo glfwWindowHint sin resolver
+ProyectoFinal.obj : error LNK2001: símbolo externo __imp___glewGetUniformLocation sin resolver
+ProyectoFinal.obj : error LNK2001: símbolo externo glfwSetInputMode sin resolver
+ProyectoFinal.obj : error LNK2001: símbolo externo glfwMakeContextCurrent sin resolver
+ProyectoFinal.obj : error LNK2001: símbolo externo __imp___glewBufferData sin resolver
+ProyectoFinal.obj : error LNK2001: símbolo externo __imp___glewAttachShader sin resolver
+ProyectoFinal.obj : error LNK2001: símbolo externo __imp___glewActiveTexture sin resolver
+ProyectoFinal.obj : error LNK2001: símbolo externo stbi_image_free sin resolver
+ProyectoFinal.obj : error LNK2001: símbolo externo __imp___glewShaderSource sin resolver
+ProyectoFinal.obj : error LNK2001: símbolo externo __imp___glewGenVertexArrays sin resolver
+ProyectoFinal.obj : error LNK2001: símbolo externo __imp___glewUniformMatrix4fv sin resolver
+ProyectoFinal.obj : error LNK2001: símbolo externo "public: char const * __cdecl Assimp::Importer::GetErrorString(void)const " (?GetErrorString@Importer@Assimp@@QEBAPEBDXZ) sin resolver
+ProyectoFinal.obj : error LNK2001: símbolo externo "public: struct aiScene const * __cdecl Assimp::Importer::ReadFile(char const *,unsigned int)" (?ReadFile@Importer@Assimp@@QEAAPEBUaiScene@@PEBDI@Z) sin resolver
+ProyectoFinal.obj : error LNK2001: símbolo externo "public: __cdecl Assimp::Importer::~Importer(void)" (??1Importer@Assimp@@QEAA@XZ) sin resolver
+ProyectoFinal.obj : error LNK2001: símbolo externo "public: __cdecl Assimp::Importer::Importer(void)" (??0Importer@Assimp@@QEAA@XZ) sin resolver
+ProyectoFinal.obj : error LNK2001: símbolo externo aiGetMaterialTexture sin resolver
+ProyectoFinal.obj : error LNK2001: símbolo externo __imp_glewExperimental sin resolver
+ProyectoFinal.obj : error LNK2001: símbolo externo glfwSetCursorPosCallback sin resolver
+ProyectoFinal.obj : error LNK2001: símbolo externo __imp___glewGetProgramInfoLog sin resolver
+ProyectoFinal.obj : error LNK2001: símbolo externo __imp___glewGenBuffers sin resolver
+ProyectoFinal.obj : error LNK2001: símbolo externo __imp___glewGenerateMipmap sin resolver
+ProyectoFinal.obj : error LNK2001: símbolo externo __imp___glewUniform3f sin resolver
+ProyectoFinal.obj : error LNK2001: símbolo externo __imp___glewDeleteShader sin resolver
+ProyectoFinal.obj : error LNK2001: símbolo externo __imp___glewLinkProgram sin resolver
+ProyectoFinal.obj : error LNK2001: símbolo externo glfwWindowShouldClose sin resolver
+ProyectoFinal.obj : error LNK2001: símbolo externo __imp_glewInit sin resolver
+C:\Users\marco\Desktop\9no semestre\Lab. Compu Gráfica\ProyectoFinal\x64\Release\ProyectoFinal.exe : fatal error LNK1120: 52 externos sin resolver
